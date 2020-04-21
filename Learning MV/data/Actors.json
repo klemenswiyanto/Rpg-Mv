@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Venos","characterIndex":0,"characterName":"Venos","classId":1,"equips":[1,0,19,6,32],"faceIndex":0,"faceName":"venos","traits":[],"initialLevel":1,"maxLevel":40,"name":"Venos","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Dimos","characterIndex":0,"characterName":"Dimos","classId":3,"equips":[2,1,19,6,33],"faceIndex":0,"faceName":"Dimos","traits":[],"initialLevel":1,"maxLevel":40,"name":"Dimos","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Adeline","characterIndex":0,"characterName":"Adeline","classId":5,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"del","traits":[],"initialLevel":1,"maxLevel":40,"name":"Adeline Forester","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"=== GUEST CHARACTERS ===","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":7,"equips":[24,0,29,16,35],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":40,"name":"Amaryllis","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":8,"equips":[23,0,30,17,36],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":40,"name":"Tahara Ryo","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
